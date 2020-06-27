@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GalaxyArmies.Data/1.0.0": {
+        "dependencies": {
+          "GalaxyArmies.Core": "1.0.0"
+        },
+        "runtime": {
+          "GalaxyArmies.Data.dll": {}
+        }
+      },
+      "GalaxyArmies.Core/1.0.0": {
+        "runtime": {
+          "GalaxyArmies.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GalaxyArmies.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GalaxyArmies.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
